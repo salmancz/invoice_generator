@@ -3,7 +3,7 @@ import shutil
 import pandas as pd
 from docxtpl import DocxTemplate
 import streamlit as st
-from docx2pdf import convert
+
 
 
 st.markdown("<h2 style='text-align: center; color: #ccc; background-color:#00000s; margin-top : 10px; margin-bottom: 40px'>Invoice Generator</h2>", unsafe_allow_html=True)
